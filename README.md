@@ -1,5 +1,5 @@
 # Hello, folks! :wave: I am Yogesh Jangid.
-![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderyogesh&theme=cobalt)
+![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderyogesh&theme=cobalt&width=49%)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coderyogesh&theme=cobalt)
 ![Yogesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=coderyogesh&theme=xcode)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderyogesh&layout=demo&theme=dracula)
