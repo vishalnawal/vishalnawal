@@ -1,19 +1,26 @@
-# Hello, folks! :wave: I am Yogesh Jangid.
-![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderyogesh&theme=cobalt&width=49%)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coderyogesh&theme=cobalt)
-![Yogesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=coderyogesh&theme=xcode)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderyogesh&layout=demo&theme=dracula)
-<!--
-**coderyogesh/coderyogesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 
+<div align="center">
+   <h1>Hello, folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Yogesh Jangid.</h1>
+</div>
+ 
+<br />
 
-Here are some ideas to get you started:
+<p align="center">
+  <h4> App Development | Java with DSA | CSE'23 </h4>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=coderyogesh&theme=tokyonight&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=coderyogesh&theme=tokyonight&show_icons=true" />
+  <img width="97%" src="https://lit-escarpment-01980.herokuapp.com/graph?username=coderyogesh&theme=github" />
+</div>
+
+<br />
+
+<p align="center" >
+   <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderyogesh&&show_icons=true&theme=tokyonight"/>
+  </a>
+</p>
