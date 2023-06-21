@@ -13,7 +13,7 @@
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishalnawal&theme=tokyonight&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalnawalh&theme=tokyonight&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalnawal&theme=tokyonight&show_icons=true" />
   <img width="97%" src="https://lit-escarpment-01980.herokuapp.com/graph?username=vishalnawal&theme=github" />
 </div>
 
