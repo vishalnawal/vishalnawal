@@ -34,7 +34,7 @@ Currently focused on **backend development, TypeScript, system design, and DSA**
   <a href="https://www.hackerrank.com/vishalnawal">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="https://vishalnawal.github.io/Portfolio_website/">
+  <a href="https://portfolio-vishalmaheshwari.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-181717?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
