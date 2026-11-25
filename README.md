@@ -1,57 +1,41 @@
 # Hi, I'm Vishal Maheshwari 👋
 
-### Backend Developer | Node.js | TypeScript | Express.js
+### Backend-focused Full Stack Developer
 
-Backend Developer with **2.5+ years of experience** building REST APIs and database-driven applications using Node.js, Express.js, JavaScript/TypeScript, MySQL, MSSQL, and Sequelize.
+Nearly 3 years of experience building REST APIs and enterprise applications with Node.js, Express.js, TypeScript, and SQL databases.
 
-Currently focused on **backend development, TypeScript, system design, and DSA**.
+Currently exploring **system design and DSA**.
 
----
-
-### 🛠️ Technologies
+### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,javascript,mysql,mongodb,react,nextjs,git,github,linux,aws" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,javascript,react,nextjs,mysql,postgres,mongodb,redis,aws,docker,git,github" />
 </p>
 
-**Backend:** Node.js, Express.js, REST APIs, Sequelize
-**Databases:** MySQL, MSSQL, MongoDB
-**Languages:** JavaScript, TypeScript, C++
-**Frontend:** React.js, Next.js
-**Tools:** Git, GitHub, Postman, Swagger, AWS
-
----
-
-### 🔗 Connect
+### 🔗 Connect With Me
 
 <p align="left">
+  <a href="https://portfolio-vishalmaheshwari.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/vishalnawal">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/vishalnawal">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/vishalnawal">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://portfolio-vishalmaheshwari.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
 
----
-
-### 📊 GitHub
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vishalnawal&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalnawal&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vishalnawal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalnawal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishalnawal&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishalnawal&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://streak-stats.demolab.com/?user=vishalnawal&theme=tokyonight&hide_border=true" />
 </p>
